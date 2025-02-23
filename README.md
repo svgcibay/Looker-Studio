@@ -19,14 +19,6 @@ Welcome to my **Looker Studio** repository! 🚀 Here, you'll find a collection 
 
 ---
 
-## 📁 Repository Contents
-
-This repository includes:
-
-- **📊 Dashboards** – Interactive dashboards created with Looker Studio.
-- **📂 Data Sources** – Sample datasets used in dashboards.
-- **📌 Projects** – Hands-on projects demonstrating various data visualization techniques and use cases.
-
 ---
 
 ## 🚀 Projects
@@ -36,6 +28,16 @@ This repository includes:
 | **Sales Dashboard** | An interactive dashboard that visualizes sales performance with key metrics, trends, and insights. This project showcases Looker Studio's **dynamic charts, filters, and real-time data integration**. | [View](#) | [Repo](#) |
 
 ---
+
+## 📁 Repository Contents
+
+This repository includes:
+
+- **📊 Dashboards** – Interactive dashboards created with Looker Studio.
+- **📂 Data Sources** – Sample datasets used in dashboards.
+- **📌 Projects** – Hands-on projects demonstrating various data visualization techniques and use cases.
+
+
 
 ## 📈 Get Started with Looker Studio
 

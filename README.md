@@ -20,13 +20,10 @@ Welcome to my **Looker Studio** repository! 🚀 Here, you'll find a collection 
 ---
 
 ---
-
-## 🚀 Projects
-
-| Project Name | Description | Looker Studio | GitHub |
-|-------------|-------------|---------------|--------|
-| **Sales Dashboard** | An interactive dashboard that visualizes sales performance with key metrics, trends, and insights. This project showcases Looker Studio's **dynamic charts, filters, and real-time data integration**. | [View](#) | [Repo](#) |
-
+## 📌 Projects
+| Project Name                  | Description | Preview | Tableau | GitHub |
+|--------------------------------|-------------|---------|---------|--------|
+| **Cafe Sales Dashboard**        | The Café Sales Dashboard provides a comprehensive analysis of sales trends, product performance, and customer preferences in the café industry. It includes key metrics such as total sales, orders, and average order value, along with visual breakdowns by product, category, location, and monthly trends for better decision-making. | <img src="https://github.com/user-attachments/assets/4592ed70-7f83-4754-b102-72dbf05448b5" width="200"> 
 ---
 
 ## 📁 Repository Contents
